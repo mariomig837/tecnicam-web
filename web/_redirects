@@ -1,0 +1,8 @@
+# Redirecciones 301 de las páginas de la web antigua (Zyro) a la nueva.
+# Netlify lee este archivo automáticamente. Mantenerlo siempre.
+/tienda                    /                 301
+/tienda/*                  /                 301
+/mantenimiento             /#servicios       301
+/politicas-y-condiciones   /privacidad.html  301
+/contrato-de-servicios     /                 301
+/privacidad                /privacidad.html  301

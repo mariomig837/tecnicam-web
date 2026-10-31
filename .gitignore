@@ -1,0 +1,10 @@
+# Material de referencia (web antigua y fotos originales sin optimizar)
+_referencia/
+
+# Configuración local del editor / Claude
+.claude/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
